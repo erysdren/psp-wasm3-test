@@ -1,5 +1,7 @@
 # psp-wasm3-test
 
+![](.github/screenshot1.png)
+
 i have no idea if this is useful to anyone lol
 
 ## License
